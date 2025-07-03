@@ -1,0 +1,38 @@
+# Build output
+/bin/
+/obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VSCode settings
+.vscode/
+
+# Rider settings
+.idea/
+
+# Logs
+*.log
+
+# Dotnet secrets
+secrets.json
+
+# Environment files
+*.env
+
+# EF Migrations snapshots that change per build
+**/Migrations/*_Designer.cs
+**/Migrations/*Snapshot.cs
+
+# Docker
+**/docker-compose.override.yml
+
+# Node/npm (si usas algo de frontend compartido)
+node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db
