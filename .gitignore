@@ -1,7 +1,7 @@
 # Build output
 /bin/
 /obj/
-
+/postgres/
 # User-specific files
 *.user
 *.suo

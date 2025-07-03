@@ -1,0 +1,23 @@
+# Carpetas de salida
+bin/
+obj/
+
+# Archivos temporales
+*.user
+*.vs
+.vscode/
+
+# Archivos de entorno
+.env
+.env.*
+
+# Configuración de entorno local
+appsettings.Development.json
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de Git
+.git
+.gitignore
